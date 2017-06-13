@@ -1,0 +1,9 @@
+U:\Headquarters\Model\bin\Debug\Model.exe
+U:\Headquarters\Model\bin\Debug\Model.pdb
+U:\Headquarters\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+U:\Headquarters\Model\obj\Debug\App.g.cs
+U:\Headquarters\Model\obj\Debug\Model_MarkupCompile.cache
+U:\Headquarters\Model\obj\Debug\Model.Properties.Resources.resources
+U:\Headquarters\Model\obj\Debug\Model.csproj.GenerateResource.Cache
+U:\Headquarters\Model\obj\Debug\Model.exe
+U:\Headquarters\Model\obj\Debug\Model.pdb

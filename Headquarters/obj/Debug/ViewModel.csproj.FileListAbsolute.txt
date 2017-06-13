@@ -1,0 +1,13 @@
+U:\Headquarters\Headquarters\bin\Debug\Headquarters.exe
+U:\Headquarters\Headquarters\bin\Debug\Headquarters.pdb
+U:\Headquarters\Headquarters\obj\Debug\ViewModel.csprojResolveAssemblyReference.cache
+U:\Headquarters\Headquarters\obj\Debug\App.g.cs
+U:\Headquarters\Headquarters\obj\Debug\Headquarters_MarkupCompile.cache
+U:\Headquarters\Headquarters\obj\Debug\Headquarters.Properties.Resources.resources
+U:\Headquarters\Headquarters\obj\Debug\ViewModel.csproj.GenerateResource.Cache
+U:\Headquarters\Headquarters\obj\Debug\Headquarters.exe
+U:\Headquarters\Headquarters\obj\Debug\Headquarters.pdb
+U:\Headquarters\Headquarters\bin\Debug\View.exe
+U:\Headquarters\Headquarters\bin\Debug\View.pdb
+U:\Headquarters\Headquarters\bin\Debug\Model.exe
+U:\Headquarters\Headquarters\bin\Debug\Model.pdb
